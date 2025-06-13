@@ -1,6 +1,6 @@
 <h1> Webpage Summarizer </h1>
 <h2>
-  A chrome extension which help you to summarizer a any page in some few points to save your time 
+  A chrome extension which help you to summarizer any webpage in some few points to save your time 
 </h2>
 <h3> How it's work </h3>
 <p> 

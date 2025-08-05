@@ -5,17 +5,17 @@
 <h3> How it's work </h3>
 <p> 
 - Just clone this repo into your system <br/>
-- open it on Vs code  or any IDE 
-- run commands:
-  npm install - to install the all the dependencies 
-  npm run build - to build the all file 
-- you will see the dist file. Now,
+- open it on Vs code  or any IDE <br/>
+- run commands: <br/>
+  npm install - to install the all the dependencies <br/>
+  npm run build - to build the all file <br/>
+- you will see the dist file. Now, <br/>
 - open chorme/brave go to setting , enable developer mode , <br/> 
 - it will give the option to add your extension, click on that,<br/>
 - Add this "dist" file there,<br/>
 - Grab your gemini free api keys from  here : https://aistudio.google.com/app/apikey , <br/>
 - Then open this extension , go to the option "red button top right corner", add your free gemini api keys over there and save it, <br/>
-- Now you will be able to use this extension
+- Now you will be able to use this extension <br/>
 </p>
 
 
